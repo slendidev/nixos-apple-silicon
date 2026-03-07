@@ -26,7 +26,7 @@ let
         owner = "AsahiLinux";
         repo = "linux";
         rev = "fairydust";
-        hash = "sha256-5eAgJTKcRdjEFzHDSrh/XReaT6Db9YN2RN1SwOs28NE=";
+        hash = "sha256-z8hafm8EWS7dXoDXnZ/1ddvtpWKVUtJfvQmWT4zXIdg=";
       };
 
       ignoreConfigErrors = true;
